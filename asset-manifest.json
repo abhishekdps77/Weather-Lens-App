@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weatherLensApp/static/css/main.67c35d8e.css",
+    "main.js": "/weatherLensApp/static/js/main.def2d6c0.js",
+    "index.html": "/weatherLensApp/index.html",
+    "main.67c35d8e.css.map": "/weatherLensApp/static/css/main.67c35d8e.css.map",
+    "main.def2d6c0.js.map": "/weatherLensApp/static/js/main.def2d6c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c35d8e.css",
+    "static/js/main.def2d6c0.js"
+  ]
+}
