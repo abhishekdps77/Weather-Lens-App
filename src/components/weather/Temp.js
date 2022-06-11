@@ -4,7 +4,7 @@ import './style.css';
 
 
 const Temp = (props) => {
-    const [searchValue , setSearchValue] = useState("delhi");
+    const [searchValue , setSearchValue] = useState("Delhi");
     const [tempInfo, setTempInfo] = useState({});
 
     const getWeatherInfo = async()=>{
